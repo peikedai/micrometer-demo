@@ -1,0 +1,4 @@
+management.metrics.export.datadog:
+  enabled: true
+  apiKey: yourapikey
+  step: 10s

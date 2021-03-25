@@ -1,0 +1,13 @@
+logging.level:
+  peike.demo.observability: DEBUG
+  io.micrometer: DEBUG
+  io.micrometer.datadog: TRACE
+
+management:
+  metrics:
+    export.defaults.enabled: false
+    enable:
+      jvm: false
+      logback: false
+      process: false
+      system: false
