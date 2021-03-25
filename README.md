@@ -1,4 +1,4 @@
-# Observability Demo
+# Micrometer Demo
 
 This is the project for the backend group hug demo about observability. 
 
